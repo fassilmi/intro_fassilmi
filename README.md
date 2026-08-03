@@ -1,6 +1,7 @@
 # Hi, I'm Muhammad Faiz 👋
 
 🎓 Physics Engineering Student at Institut Teknologi Bandung (ITB)
+
 I'm passionate about Instrumentation & Control, Embedded Systems, and Industrial Internet of Things (IIoT). I enjoy designing PCB, CAD models, and developing embedded solutions using Raspberry Pi, ESP32, and Arduino.
 
 ## 🔧 Interests
