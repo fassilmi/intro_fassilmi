@@ -31,7 +31,9 @@ I'm passionate about Instrumentation & Control, Embedded Systems, and Industrial
 - CX-Programmer
 - Visual Studio Code
 - Matlab
-- 
+  
 ## 📫Contact
 - 💼 LinkedIn: www.linkedin.com/in/muhammad-faiz-assilmi
 - 📧 Email: gayafiktif@gmail.com
+
+#LETS CONNECT :D
