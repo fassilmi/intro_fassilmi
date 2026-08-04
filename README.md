@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Faiz 👋
+# Hi, I'm Muhammad Faiz Assilmi 👋
 
 🎓 Physics Engineering Student at Institut Teknologi Bandung (ITB)
 
