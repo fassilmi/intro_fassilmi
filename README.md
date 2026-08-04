@@ -12,16 +12,16 @@ I'm passionate about Instrumentation & Control, Embedded Systems, and Industrial
 - CAD Design
 
 ## 🛠️Technical Skills
-### 💻Programming Languages
+### Programming Languages
 - Python
 - C/C++
 
-### 🔌Embedded Systems
+### Embedded Systems
 - Raspberry Pi
 - ESP32
 - Arduino
 
-### 🚨Industrial Automation
+### Industrial Automation
 - PLC Programming
 - Ladder Logic
 
